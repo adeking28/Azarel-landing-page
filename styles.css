@@ -1,0 +1,19 @@
+.navbar a{
+    margin-left: 6px;
+        color: rgba(128, 0, 128, 0.685);
+    
+
+    }
+.navbar{ justify-items: center;
+    background-color: rgba(232, 232, 245, 0.733);
+    
+}
+
+body{
+    background-color: white;
+
+}
+.dropdown{
+    margin-left:120px;
+}
+.card{ padding: auto;}
