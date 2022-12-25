@@ -1,7 +1,8 @@
 .navbar a{
-    margin-left: 40px;
+    margin-left: 20px;
         color:white;
     }
+    
     .d-flex{
         width: 330px;
     }
@@ -12,7 +13,7 @@ body{
 
 .card{ padding: auto;}
 .dropdown{
-    margin-left: 260px;
+    margin-left: 8px;
     
 }
 .dropdown-menu{
@@ -22,10 +23,13 @@ body{
 footer{
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-top: 25px;
+    
 }
 .heading2{
     background-color: rgb(220, 240, 233);
     padding: 50px;
     padding-top: 20px; 
+}
+.d-flex{
+    margin-left: 480px;
 }
