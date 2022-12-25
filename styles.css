@@ -1,19 +1,31 @@
 .navbar a{
-    margin-left: 6px;
-        color: rgba(128, 0, 128, 0.685);
-    
-
+    margin-left: 40px;
+        color:white;
     }
-.navbar{ justify-items: center;
-    background-color: rgba(232, 232, 245, 0.733);
-    
-}
-
+    .d-flex{
+        width: 330px;
+    }
 body{
     background-color: white;
 
 }
-.dropdown{
-    margin-left:120px;
-}
+
 .card{ padding: auto;}
+.dropdown{
+    margin-left: 260px;
+    
+}
+.dropdown-menu{
+    background-color: grey;
+   
+}
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 25px;
+}
+.heading2{
+    background-color: rgb(220, 240, 233);
+    padding: 50px;
+    padding-top: 20px; 
+}
