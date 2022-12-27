@@ -5,15 +5,15 @@
     .btn{
         background-color: rgba(0, 0, 0, 0.856);
         color: white;
-        border: 60px;
-        border-radius: -95em
+        border: 30px;
+        border-radius: -55em;
     }
-    .nav{
-        margin-left: 300px;
-    }
+    
+    
     
     .d-flex{
         width: 300px;
+        margin-left: 650px;
        
     }
 body{
@@ -36,10 +36,7 @@ img{
 }
 
 .card{ padding: auto;}
-.dropdown{
-    margin-left: 20px;
-    
-}
+
 .dropdown-menu{
     background-color: grey;
    
@@ -59,6 +56,7 @@ footer{
     padding: auto;
     justify-self: auto;
 }
-.d-flex{
-    margin-left: 480px;
+.heading2 .d-flex{
+margin-left: 100px;
+width: max-content;
 }
