@@ -9,7 +9,7 @@
         border-radius: -55em;
     }
     
-    
+   
     
     .d-flex{
         width: 300px;
@@ -17,7 +17,9 @@
        
     }
 body{
+    display: grid;
     background-color: white;
+    grid-template-rows: auto;
 
 }
 .heading1 .immy{
